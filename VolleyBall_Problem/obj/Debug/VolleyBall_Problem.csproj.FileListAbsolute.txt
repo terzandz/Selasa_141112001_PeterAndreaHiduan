@@ -1,0 +1,7 @@
+D:\Lanjutan2016\Selasa_141112001_PeterAndreaHiduan\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.exe.config
+D:\Lanjutan2016\Selasa_141112001_PeterAndreaHiduan\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.exe
+D:\Lanjutan2016\Selasa_141112001_PeterAndreaHiduan\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.pdb
+D:\Lanjutan2016\Selasa_141112001_PeterAndreaHiduan\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.Properties.Resources.resources
+D:\Lanjutan2016\Selasa_141112001_PeterAndreaHiduan\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.csproj.GenerateResource.Cache
+D:\Lanjutan2016\Selasa_141112001_PeterAndreaHiduan\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.exe
+D:\Lanjutan2016\Selasa_141112001_PeterAndreaHiduan\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.pdb
